@@ -1,0 +1,16 @@
+.App {
+  min-height: 100vh;
+  display: flex;
+  width: 100%;
+}
+.boards container {
+  flex: 1;
+  width: 150vw;
+  padding: 10px 20px;
+}
+.boards {
+  display: flex;
+  min-width: fit-content;
+  background-color: #f0f0f0;
+  gap: 30px;
+}
